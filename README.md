@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Jitender%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=19&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=160&section=header&animation=fadeIn" />
+
+<h1>Jitender Singh</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Building+carbon-aware+AI+systems;LLM+Orchestration+%7C+RAG+%7C+RL+Agents;Production-grade+ML+pipelines;Open+to+internships+%26+collaborations" alt="Typing SVG" />
 
 </div>
 
