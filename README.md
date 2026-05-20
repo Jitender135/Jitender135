@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jitender%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Jitender%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=19&descColor=a78bfa&animation=fadeIn" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jitender%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitender-singh01)
-[![GitHub](https://img.shields.io/badge/GitHub-Jitender135-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135)
-[![Email](https://img.shields.io/badge/Email-jitender.singh.23cse%40bmu.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitender.singh.23cse@bmu.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jitender%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitender-singh01)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Jitender135-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitender.singh.23cse@bmu.edu.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jitender135&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -19,31 +18,21 @@
 
 ---
 
-## `> whoami`
+### 👨‍💻 About Me
 
-```python
-class JitenderSingh:
-    def __init__(self):
-        self.name        = "Jitender Singh"
-        self.role        = "AI/ML Engineer & Full-Stack Developer"
-        self.education   = "B.Tech CSE @ BML Munjal University (2023–2027)"
-        self.experience  = "Ex AI/ML Intern @ Edubot"
-        self.interests   = ["LLM Orchestration", "Cloud Infrastructure",
-                            "Data Observability", "Scalable Systems"]
-        self.achievements = [
-            "🥈 Semi-Finalist – ET-AI Hackathon 2026 (Nationwide)",
-            "🏆 Winner – TechSparx.I Design Thinking Impact Award"
-        ]
+I'm a **Computer Science Engineering student** at BML Munjal University (Class of 2027), specialising in **AI/ML engineering**, **LLM orchestration**, and **full-stack mobile development**. I build systems that are production-ready, measurable, and impactful — from carbon-aware AI pipelines to scalable mobile platforms.
 
-    def current_focus(self):
-        return "Building carbon-aware AI systems & production-grade ML pipelines"
-```
+Previously an **AI/ML Intern at Edubot**, where I shipped an end-to-end cart abandonment prediction system across 10K+ records, achieving 92% model accuracy and improving course completion rates by 25%.
 
-<br/>
+Currently focused on **cloud infrastructure**, **data observability**, and **reinforcement learning for adaptive AI systems**.
+
+&nbsp;&nbsp;🏆 &nbsp;**Winner** — TechSparx.I Design Thinking Impact Award *(1st Place)*  
+&nbsp;&nbsp;🥈 &nbsp;**Semi-Finalist** — ET-AI Hackathon 2026 *(Nationwide)*  
+&nbsp;&nbsp;📍 &nbsp;India &nbsp;|&nbsp; 📬 &nbsp;jitender.singh.23cse@bmu.edu.in
 
 ---
 
-## `> tech_stack`
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -63,7 +52,7 @@ class JitenderSingh:
 ![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**Infrastructure & Backend**
+**Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -86,39 +75,38 @@ class JitenderSingh:
 
 </div>
 
-<br/>
-
 ---
 
-## `> featured_projects`
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 CarbonSense AI
-> *Carbon-Aware LLM Orchestration System*
+**🌿 CarbonSense AI**
+*Carbon-Aware LLM Orchestration System*
 
-Production-ready AI system that reduces carbon footprint by **84%** through intelligent LLM routing, multi-layer semantic caching (**38% hit rate**), and Knowledge Graph RAG — cutting inference cost by **77%**.
+Production-ready AI system reducing carbon footprint by **84%** through intelligent LLM routing, multi-layer semantic caching (**38% hit rate**), and Knowledge Graph RAG — cutting inference cost by **77%**.
 
-- 🤖 Q-Learning RL agent for adaptive model selection
-- 🌍 Live carbon-aware routing via Electricity Maps API
-- 📊 ESG dashboards for real-time CO₂ tracking
-- 🔗 Neo4j GraphRAG deflecting **42%** of queries
+- Q-Learning RL agent for adaptive model selection (tiny → large) based on query complexity and live grid carbon intensity
+- Live carbon-aware regional routing via Electricity Maps API
+- Neo4j GraphRAG deflecting **42%** of queries without heavy inference
+- ESG dashboards for real-time CO₂ monitoring
 
 `Python` `FastAPI` `Redis` `ChromaDB` `Neo4j` `RL` `React`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 CVNLP – AI Resume Screener
-> *Intelligent Candidate Ranking Engine*
+**🧠 CVNLP — AI Resume Screener**
+*Intelligent Candidate Ranking Engine*
 
-AI-driven resume screening pipeline using GPT-based semantic reasoning and hybrid keyword + vector scoring to match candidates against job descriptions with explainable rankings.
+AI-driven pipeline using GPT-based semantic reasoning and hybrid keyword + vector scoring to match candidates against job descriptions with fully explainable rankings.
 
-- 📄 PDF/DOCX extraction with NLP/NER
-- 🎯 Suitability scoring with skill gap analysis
-- 📋 Prioritised candidate shortlists
+- PDF/DOCX extraction with NLP/NER parsing
+- Suitability scoring with skill gap identification
+- Prioritised candidate shortlists with readiness analysis
+- Significant reduction in manual screening effort
 
 `Python` `SentenceTransformers` `GPT` `PyMuPDF` `Vector Embeddings`
 
@@ -127,28 +115,28 @@ AI-driven resume screening pipeline using GPT-based semantic reasoning and hybri
 <tr>
 <td width="50%" valign="top">
 
-### 📱 UniworkX – Mobile Job Platform
-> *University Student Hiring Platform*
+**📱 UniworkX — Mobile Job Platform**
+*University Student Hiring Platform*
 
-Flutter-based mobile platform connecting university students with part-time roles and internships — featuring role-based access, real-time notifications, and applicant tracking.
+Flutter-based mobile platform connecting university students with part-time roles and internships, featuring role-based access for students and HR teams, real-time notifications, and applicant tracking.
 
-- 🔐 Firebase Auth + Firestore backend
-- 📡 Live job listings with cross-device sync
-- 👥 HR and student role-based dashboards
+- Firebase Auth + Firestore for secure, scalable backend
+- Live job listings with seamless cross-device synchronisation
+- Role-based dashboards for students and HR managers
 
-`Flutter` `Firebase` `Firestore` `REST APIs` `Dart`
+`Flutter` `Firebase Auth` `Firestore` `REST APIs` `Dart`
 
 </td>
 <td width="50%" valign="top">
 
-### 📰 Global Insight – News Verification
-> *Community-Driven Fake News Detection*
+**📰 Global Insight — News Verification**
+*Community-Driven Fake News Detection App*
 
-Android news app with community-based fake news reporting, one-report-per-user integrity enforcement, and a modular NLP-extensible architecture ready for ML-based trust scoring.
+Android application enabling community-based fake news reporting with one-report-per-user integrity enforcement and a modular NLP-extensible architecture designed for ML-based trust scoring.
 
-- 🛡️ Firebase Auth with abuse prevention
-- 🔌 Pluggable NLP detection module
-- 📰 External News API integration
+- Firebase Auth with misuse prevention controls
+- Pluggable NLP detection module for future ML integration
+- External News API integration with credibility tracking
 
 `Android` `Java/Kotlin` `Firebase` `Firestore` `News APIs`
 
@@ -156,77 +144,60 @@ Android news app with community-based fake news reporting, one-report-per-user i
 </tr>
 </table>
 
-<br/>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jitender135&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitender135&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+<img width="68%" src="https://streak-stats.demolab.com?user=Jitender135&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jitender135&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=6" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jitender135&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+
+</div>
 
 ---
 
-## `> github_stats`
+### 💼 Experience
 
-<div align="center">
+**AI/ML Intern — Edubot** *(Remote)*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jitender135&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitender135&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jitender135&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jitender135&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=4"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jitender135&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
-<br/>
+- Built an end-to-end ML pipeline predicting cart abandonment across **10K+ behavioural and transactional records**, improving student course completion rates by **25%**
+- Engineered **15+ features** from raw session data (time-on-page, click patterns, drop-off points); trained XGBoost and Random Forest classifiers achieving **92% accuracy**
+- Shipped an interactive Streamlit dashboard for real-time risk scoring, enabling stakeholders to filter by risk tier, view feature importance, and trigger re-engagement workflows
 
 ---
 
-## `> achievements`
+### 🏅 Achievements
 
-<div align="center">
-
-| 🏅 Award | 📋 Details |
-|:---|:---|
-| 🥈 **Semi-Finalist – ET-AI Hackathon 2026** | Selected among top AI innovators nationwide for building a meaningful, impactful AI solution |
-| 🏆 **Winner – TechSparx.I Vision to Reality** | 1st Place, Design Thinking Impact Award — Institute of Innovation & Entrepreneurship |
-
-</div>
-
-<br/>
-
----
-
-## `> work_experience`
-
-**AI/ML Intern @ Edubot** *(Remote)*
-- Built an end-to-end ML pipeline predicting cart abandonment across **10K+ behavioral records**, improving course completion rates by **25%**
-- Engineered **15+ features** from raw session data; trained XGBoost & Random Forest models achieving **92% accuracy**
-- Shipped an interactive Streamlit dashboard for real-time risk scoring, enabling stakeholder-driven re-engagement workflows
-
-<br/>
+| Award | Details |
+|:------|:--------|
+| 🏆 **Winner — TechSparx.I Vision to Reality** | 1st Place, Design Thinking Impact Award — Institute of Innovation & Entrepreneurship |
+| 🥈 **Semi-Finalist — ET-AI Hackathon 2026** | Selected among top AI innovators nationwide for building a meaningful and impactful AI solution |
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=130&section=footer&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
-*"Build things that matter. Measure everything. Ship fast."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jitender135&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+*"Build things that matter. Measure everything. Ship with intent."*
 
 </div>
