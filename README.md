@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a **Computer Science Engineering student** at BML Munjal University (Class of 2027), specialising in **AI/ML engineering**, **LLM orchestration**, and **full-stack mobile development**. I build systems that are production-ready, measurable, and impactful — from carbon-aware AI pipelines to scalable mobile platforms.
 
@@ -26,13 +26,13 @@ Previously an **AI/ML Intern at Edubot**, where I shipped an end-to-end cart aba
 
 Currently focused on **cloud infrastructure**, **data observability**, and **reinforcement learning for adaptive AI systems**.
 
-&nbsp;&nbsp;🏆 &nbsp;**Winner** — TechSparx.I Design Thinking Impact Award *(1st Place)*  
-&nbsp;&nbsp;🥈 &nbsp;**Semi-Finalist** — ET-AI Hackathon 2026 *(Nationwide)*  
-&nbsp;&nbsp;📍 &nbsp;India &nbsp;|&nbsp; 📬 &nbsp;jitender.singh.23cse@bmu.edu.in
+**Winner** — TechSparx.I Design Thinking Impact Award *(1st Place)*  
+**Semi-Finalist** — ET-AI Hackathon 2026 *(Nationwide)*  
+India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -77,76 +77,129 @@ Currently focused on **cloud infrastructure**, **data observability**, and **rei
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-**🌿 CarbonSense AI**
-*Carbon-Aware LLM Orchestration System*
+**CarbonSense AI**
 
-Production-ready AI system reducing carbon footprint by **84%** through intelligent LLM routing, multi-layer semantic caching (**38% hit rate**), and Knowledge Graph RAG — cutting inference cost by **77%**.
+*What it does:* An LLM orchestration layer that routes AI queries to the most carbon-efficient model in real time — intelligently choosing between lightweight and large models based on query complexity and live regional grid carbon intensity. The result is a production-ready system that does more with significantly less compute and emissions.
 
-- Q-Learning RL agent for adaptive model selection (tiny → large) based on query complexity and live grid carbon intensity
+*Key outcomes:* 84% reduction in carbon footprint · 77% cut in inference cost · 38% semantic cache hit rate · 42% of queries resolved without heavy LLM inference
+
+*How it works:*
+- Q-Learning RL agent for adaptive model selection (tiny → large)
+- Multi-layer semantic caching via Redis and ChromaDB
+- Knowledge Graph RAG powered by Neo4j GraphRAG
 - Live carbon-aware regional routing via Electricity Maps API
-- Neo4j GraphRAG deflecting **42%** of queries without heavy inference
-- ESG dashboards for real-time CO₂ monitoring
+- ESG dashboards for real-time CO2 monitoring
 
-`Python` `FastAPI` `Redis` `ChromaDB` `Neo4j` `RL` `React`
+**Tech Stack**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6C3483?style=flat-square&logo=databricks&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-CarbonSense--AI-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/CarbonSense-AI)
+
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-**🧠 CVNLP — AI Resume Screener**
-*Intelligent Candidate Ranking Engine*
+**CVNLP — AI Resume Screener**
 
-AI-driven pipeline using GPT-based semantic reasoning and hybrid keyword + vector scoring to match candidates against job descriptions with fully explainable rankings.
+*What it does:* An AI-driven recruitment pipeline that reads resumes the way a senior recruiter would — extracting meaning, not just keywords. It matches candidates to job descriptions using a hybrid of semantic understanding and keyword relevance, then produces explainable rankings so hiring decisions are transparent and defensible.
 
-- PDF/DOCX extraction with NLP/NER parsing
-- Suitability scoring with skill gap identification
-- Prioritised candidate shortlists with readiness analysis
-- Significant reduction in manual screening effort
+*Key outcomes:* Significant reduction in manual screening effort · Skill gap identification per candidate · Prioritised shortlists with readiness scores
 
-`Python` `SentenceTransformers` `GPT` `PyMuPDF` `Vector Embeddings`
+*How it works:*
+- PDF and DOCX parsing with NLP/NER for structured data extraction
+- Hybrid keyword + vector scoring via SentenceTransformers
+- GPT-based semantic reasoning for suitability analysis
+- Explainable ranking with skill gap and readiness reports
 
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-informational?style=flat-square)
+![NLP/NER](https://img.shields.io/badge/NLP%2FNER-informational?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-CVNLP-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/CVNLP)
+
+<br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-**📱 UniworkX — Mobile Job Platform**
-*University Student Hiring Platform*
+**UniworkX — Mobile Job Platform**
 
-Flutter-based mobile platform connecting university students with part-time roles and internships, featuring role-based access for students and HR teams, real-time notifications, and applicant tracking.
+*What it does:* A mobile-first hiring platform built specifically for university students — bridging the gap between students seeking part-time and internship roles and the HR teams looking to fill them. The platform handles the full lifecycle from job posting through application tracking, with separate role-based experiences for students and recruiters.
 
-- Firebase Auth + Firestore for secure, scalable backend
-- Live job listings with seamless cross-device synchronisation
-- Role-based dashboards for students and HR managers
+*Key outcomes:* End-to-end hiring workflow on mobile · Real-time notifications and live job listings · Secure cross-device access for both students and HR
 
-`Flutter` `Firebase Auth` `Firestore` `REST APIs` `Dart`
+*How it works:*
+- Role-based access control for students and HR managers
+- Firebase Auth and Firestore for authentication and live data
+- Applicant tracking with in-app notifications
+- REST API layer for scalable, cross-device data access
 
+**Tech Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-informational?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-UniworkX-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/UniworkX)
+
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-**📰 Global Insight — News Verification**
-*Community-Driven Fake News Detection App*
+**Global Insight — News Verification App**
 
-Android application enabling community-based fake news reporting with one-report-per-user integrity enforcement and a modular NLP-extensible architecture designed for ML-based trust scoring.
+*What it does:* An Android application that puts fake news detection in the hands of the community. Users can report suspicious articles, with a one-report-per-user enforcement model to prevent coordinated abuse. The architecture is deliberately modular — designed from day one to plug in ML-based detection and automated trust scoring as the next layer.
 
-- Firebase Auth with misuse prevention controls
-- Pluggable NLP detection module for future ML integration
-- External News API integration with credibility tracking
+*Key outcomes:* Community-driven credibility system · Abuse-resistant reporting model · ML-extensible architecture ready for automated detection
 
-`Android` `Java/Kotlin` `Firebase` `Firestore` `News APIs`
+*How it works:*
+- Firebase Auth for secure, verified user identity
+- Community reporting with one-report-per-user integrity rules
+- External News API integration for live article sourcing
+- Modular NLP layer designed for future ML-based classification
 
+**Tech Stack**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-Global--Insight-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Global-Insight)
+
+<br/>
 </td>
 </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -175,7 +228,7 @@ Android application enabling community-based fake news reporting with one-report
 
 ---
 
-### 💼 Experience
+### Experience
 
 **AI/ML Intern — Edubot** *(Remote)*
 
@@ -185,12 +238,12 @@ Android application enabling community-based fake news reporting with one-report
 
 ---
 
-### 🏅 Achievements
+### Achievements
 
 | Award | Details |
 |:------|:--------|
-| 🏆 **Winner — TechSparx.I Vision to Reality** | 1st Place, Design Thinking Impact Award — Institute of Innovation & Entrepreneurship |
-| 🥈 **Semi-Finalist — ET-AI Hackathon 2026** | Selected among top AI innovators nationwide for building a meaningful and impactful AI solution |
+| **Winner — TechSparx.I Vision to Reality** | 1st Place, Design Thinking Impact Award — Institute of Innovation & Entrepreneurship |
+| **Semi-Finalist — ET-AI Hackathon 2026** | Selected among top AI innovators nationwide for building a meaningful and impactful AI solution |
 
 ---
 
