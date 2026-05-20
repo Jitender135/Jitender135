@@ -107,7 +107,7 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-CarbonSense--AI-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/CarbonSense-AI)
+![Coming Soon](https://img.shields.io/badge/Repository-Coming%20Soon-555555?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 </td>
@@ -134,7 +134,7 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-informational?style=flat-square)
 ![NLP/NER](https://img.shields.io/badge/NLP%2FNER-informational?style=flat-square)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-CVNLP-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/CVNLP)
+[![View Repository](https://img.shields.io/badge/View%20Repository-CVNLP-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/AI-Powered-Resume-Screener-CVNLP-)
 
 <br/>
 </td>
@@ -163,7 +163,7 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-informational?style=flat-square)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-UniworkX-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/UniworkX)
+[![View Repository](https://img.shields.io/badge/View%20Repository-UniworkX-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/UniWorkX)
 
 <br/>
 </td>
@@ -190,7 +190,7 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-Global--Insight-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Global-Insight)
+[![View Repository](https://img.shields.io/badge/View%20Repository-Global--Insight-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Global_Insight)
 
 <br/>
 </td>
@@ -235,6 +235,14 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 - Built an end-to-end ML pipeline predicting cart abandonment across **10K+ behavioural and transactional records**, improving student course completion rates by **25%**
 - Engineered **15+ features** from raw session data (time-on-page, click patterns, drop-off points); trained XGBoost and Random Forest classifiers achieving **92% accuracy**
 - Shipped an interactive Streamlit dashboard for real-time risk scoring, enabling stakeholders to filter by risk tier, view feature importance, and trigger re-engagement workflows
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-informational?style=flat-square)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 ---
 
