@@ -82,12 +82,11 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ---
 
 ### Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
 <br/>
-
+  
 **Meeting Memory Engine**
 
 *What it does:* An AI-powered meeting intelligence platform that records, transcribes, summarizes, and stores meeting discussions with long-term memory capabilities. Users can query past meetings in natural language and retrieve context-aware answers instantly.
@@ -110,6 +109,11 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-MeetingMemoryEngine-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Meeting-Memory-Engine)
+
+</td>
+
+<td width="50%" valign="top">
+<br/>
 
 **CarbonSense AI**
 
@@ -136,36 +140,9 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-CarbonSenseAI-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank2244/carbon)
 
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**CVNLP — AI Resume Screener**
-
-*What it does:* An AI-driven recruitment pipeline that reads resumes the way a senior recruiter would — extracting meaning, not just keywords. It matches candidates to job descriptions using a hybrid of semantic understanding and keyword relevance, then produces explainable rankings so hiring decisions are transparent and defensible.
-
-*Key outcomes:* Significant reduction in manual screening effort · Skill gap identification per candidate · Prioritised shortlists with readiness scores
-
-*How it works:*
-- PDF and DOCX parsing with NLP/NER for structured data extraction
-- Hybrid keyword + vector scoring via SentenceTransformers
-- GPT-based semantic reasoning for suitability analysis
-- Explainable ranking with skill gap and readiness reports
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-informational?style=flat-square)
-![NLP/NER](https://img.shields.io/badge/NLP%2FNER-informational?style=flat-square)
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-CVNLP-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/AI-Powered-Resume-Screener-CVNLP-)
-
-<br/>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 <br/>
@@ -192,22 +169,44 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-UniworkX-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/UniWorkX)
 
-<br/>
 </td>
+
 <td width="50%" valign="top">
 <br/>
 
-**Global Insight — News Verification App**
 
-*What it does:* An Android application that puts fake news detection in the hands of the community. Users can report suspicious articles, with a one-report-per-user enforcement model to prevent coordinated abuse. The architecture is deliberately modular — designed from day one to plug in ML-based detection and automated trust scoring as the next layer.
+**CVNLP — AI Resume Screener**
 
-*Key outcomes:* Community-driven credibility system · Abuse-resistant reporting model · ML-extensible architecture ready for automated detection
+*What it does:* An AI-driven recruitment pipeline that reads resumes the way a senior recruiter would — extracting meaning, not just keywords. It matches candidates to job descriptions using a hybrid of semantic understanding and keyword relevance, then produces explainable rankings so hiring decisions are transparent and defensible.
+
+*Key outcomes:* Significant reduction in manual screening effort · Skill gap identification per candidate · Prioritised shortlists with readiness scores
 
 *How it works:*
-- Firebase Auth for secure, verified user identity
-- Community reporting with one-report-per-user integrity rules
-- External News API integration for live article sourcing
-- Modular NLP layer designed for future ML-based classification
+- PDF and DOCX parsing with NLP/NER for structured data extraction
+- Hybrid keyword + vector scoring via SentenceTransformers
+- GPT-based semantic reasoning for suitability analysis
+- Explainable ranking with skill gap and readiness reports
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-informational?style=flat-square)
+![NLP/NER](https://img.shields.io/badge/NLP%2FNER-informational?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-CVNLP-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/AI-Powered-Resume-Screener-CVNLP-)
+
+</td>
+</tr>
+</table>
+---
+
+### Additional Projects
+
+#### Global Insight — News Verification App
+
+*What it does:* An Android application that enables community-driven fake news detection through user reporting and credibility verification mechanisms.
 
 **Tech Stack**
 
@@ -215,22 +214,14 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-Global--Insight-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Global_Insight)
 
-**Blockchain Project**
+---
 
-*What it does:* A blockchain-based application demonstrating decentralized transaction management, block creation, hashing, validation, and chain integrity. Built to understand and implement core blockchain concepts from scratch.
+#### Blockchain Project
 
-*Key outcomes:* Tamper-resistant ledger · Secure transaction validation · Blockchain fundamentals implementation · Practical understanding of distributed systems
-
-*How it works:*
-- Block generation and linking using cryptographic hashes
-- Chain validation and integrity checking
-- Transaction recording and verification
-- Proof-of-concept decentralized ledger architecture
-- Demonstration of blockchain security principles
+*What it does:* Blockchain implementation demonstrating decentralized transactions, cryptographic hashing, block validation, and chain integrity concepts.
 
 **Tech Stack**
 
@@ -240,11 +231,6 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![SHA256](https://img.shields.io/badge/SHA256-informational?style=flat-square)
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-BlockchainProject-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Blochain-Project-1)
-
-<br/>
-</td>
-</tr>
-</table>
 
 ---
 
