@@ -24,15 +24,11 @@
 
 ### About Me
 
-I'm a **Computer Science Engineering student** at BML Munjal University (Class of 2027), specialising in **AI/ML engineering**, **LLM orchestration**, and **full-stack mobile development**. I build systems that are production-ready, measurable, and impactful — from carbon-aware AI pipelines to scalable mobile platforms.
+I'm Jitender Singh, a Computer Science Engineering student at BML Munjal University (Class of 2027), specializing in Artificial Intelligence and Machine Learning. Based in Gurgaon, Haryana, I'm passionate about building innovative software solutions, exploring emerging technologies, and turning ideas into impactful products.
 
-Previously an **AI/ML Intern at Edubot**, where I shipped an end-to-end cart abandonment prediction system across 10K+ records, achieving 92% model accuracy and improving course completion rates by 25%.
+My interests span AI/ML, Generative AI, software engineering, intelligent systems, and startup building. While I haven't launched a startup yet, I enjoy brainstorming and developing new ideas with the goal of creating meaningful technology-driven ventures in the future.
 
-Currently focused on **cloud infrastructure**, **data observability**, and **reinforcement learning for adaptive AI systems**.
-
-**Winner** — TechSparx.I Design Thinking Impact Award *(1st Place)*  
-**Semi-Finalist** — ET-AI Hackathon 2026 *(Nationwide)*  
-India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
+I believe in continuous learning and enjoy taking on ambitious projects that challenge me to grow both technically and professionally. Currently, I'm seeking opportunities where I can learn, contribute, and further develop my skills while working on impactful and innovative technologies.
 
 ---
 
@@ -40,7 +36,7 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 
 <div align="center">
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,34 +44,45 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / ML**
+### AI / ML & GenAI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge&logo=xgboost&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4B0082?style=for-the-badge)
 
-**Backend & Infrastructure**
+### Cloud & Infrastructure
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge)
+
+### Backend & Databases
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6C3483?style=for-the-badge)
 
-**Frontend & Mobile**
+### Frontend & Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Tools & Platforms**
+### MLOps & Evaluation
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6C3483?style=for-the-badge&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-0A66C2?style=for-the-badge)
 
 </div>
 
@@ -206,7 +213,15 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 
 #### Global Insight — News Verification App
 
-*What it does:* An Android application that enables community-driven fake news detection through user reporting and credibility verification mechanisms.
+*What it does:* An Android application designed to combat misinformation through community-driven news verification. Users can report suspicious articles, participate in credibility assessment, and help identify potentially misleading content.
+
+*Key outcomes:* Community-powered fact verification · User reporting workflow · Improved content transparency · Enhanced news credibility assessment
+
+*How it works:*
+- Users can report articles they believe contain misinformation
+- Reports are analyzed and tracked through a verification workflow
+- News items receive credibility indicators based on community feedback
+- Firebase backend enables secure authentication and real-time updates
 
 **Tech Stack**
 
@@ -221,7 +236,15 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 
 #### Blockchain Project
 
-*What it does:* Blockchain implementation demonstrating decentralized transactions, cryptographic hashing, block validation, and chain integrity concepts.
+*What it does:* A blockchain implementation built to understand and demonstrate the core principles of distributed ledger technology, including transaction validation, cryptographic hashing, and chain integrity.
+
+*Key outcomes:* Secure transaction recording · Tamper-resistant data storage · Blockchain validation mechanisms · Hands-on understanding of decentralized systems
+
+*How it works:*
+- Blocks are created and linked using SHA-256 cryptographic hashes
+- Transactions are stored and verified before being added to the chain
+- Chain validation ensures data integrity and prevents tampering
+- Demonstrates fundamental blockchain architecture and security concepts
 
 **Tech Stack**
 
