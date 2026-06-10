@@ -207,6 +207,7 @@ I believe in continuous learning and enjoy taking on ambitious projects that cha
 </td>
 </tr>
 </table>
+
 ---
 
 ### Additional Projects
