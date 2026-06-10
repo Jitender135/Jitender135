@@ -88,6 +88,29 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 <td width="50%" valign="top">
 <br/>
 
+**Meeting Memory Engine**
+
+*What it does:* An AI-powered meeting intelligence platform that records, transcribes, summarizes, and stores meeting discussions with long-term memory capabilities. Users can query past meetings in natural language and retrieve context-aware answers instantly.
+
+*Key outcomes:* Automated meeting documentation · Semantic search across meetings · Long-term memory retrieval · Faster knowledge sharing and decision tracking
+
+*How it works:*
+- Speech-to-text pipeline for meeting transcription
+- LLM-powered summarization and action item extraction
+- Vector database for semantic memory storage
+- Natural language querying across historical meetings
+- Context-aware retrieval using RAG architecture
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6C3483?style=flat-square&logo=databricks&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-MeetingMemoryEngine-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Meeting-Memory-Engine)
+
 **CarbonSense AI**
 
 *What it does:* An LLM orchestration layer that routes AI queries to the most carbon-efficient model in real time — intelligently choosing between lightweight and large models based on query complexity and live regional grid carbon intensity. The result is a production-ready system that does more with significantly less compute and emissions.
@@ -111,7 +134,7 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-![Coming Soon](https://img.shields.io/badge/Repository-Coming%20Soon-555555?style=for-the-badge&logo=github&logoColor=white)
+[![View Repository](https://img.shields.io/badge/View%20Repository-CarbonSenseAI-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank2244/carbon)
 
 <br/>
 </td>
@@ -195,6 +218,28 @@ India &nbsp;|&nbsp; jitender.singh.23cse@bmu.edu.in
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-Global--Insight-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Global_Insight)
+
+**Blockchain Project**
+
+*What it does:* A blockchain-based application demonstrating decentralized transaction management, block creation, hashing, validation, and chain integrity. Built to understand and implement core blockchain concepts from scratch.
+
+*Key outcomes:* Tamper-resistant ledger · Secure transaction validation · Blockchain fundamentals implementation · Practical understanding of distributed systems
+
+*How it works:*
+- Block generation and linking using cryptographic hashes
+- Chain validation and integrity checking
+- Transaction recording and verification
+- Proof-of-concept decentralized ledger architecture
+- Demonstration of blockchain security principles
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-informational?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-informational?style=flat-square)
+![SHA256](https://img.shields.io/badge/SHA256-informational?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-BlockchainProject-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitender135/Blochain-Project-1)
 
 <br/>
 </td>
